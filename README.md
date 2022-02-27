@@ -1,2 +1,2 @@
 # patebin
-Example of patebin with java + spring boot + react
+Example of pastebin with java + spring boot + react
